@@ -1,0 +1,22 @@
+supplier_place1_nf_uuids,supplier_place1_uml_names,client_place2_nf_uuids,client_place2_uml_names,connector_uml_type_identifiers,connector_uml_names,stereotype_nf_uuids,stereotype_uml_names,child_package_name,parent_package_uml_names
+,UNICLASS Area Code,,Area,Association,names,,,UNICLASS Namespaces,UNICLASS Ranks
+,UNICLASS Area Code,,UNICLASS Governed Names,Generalization,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Area Code,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Group Component Code,,Group,Association,names,,,UNICLASS Namespaces,UNICLASS Ranks
+,UNICLASS Group Component Code,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Group Component Code,,UNICLASS Governed Names,Generalization,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Item Composite Code,,UNICLASS Governed Names,Generalization,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Item Composite Code,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Item Composite Code,,UNICLASS Items,Association,names,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Item Title,,UNICLASS Items,Association,names,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Item Title,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Item Title,,UNICLASS Governed Names,Generalization,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Object Component Code,,Object,Association,names,,,UNICLASS Namespaces,UNICLASS Ranks
+,UNICLASS Object Component Code,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Object Component Code,,UNICLASS Governed Names,Generalization,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Section Component Code,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Section Component Code,,Section,Association,names,,,UNICLASS Namespaces,UNICLASS Ranks
+,UNICLASS Section Component Code,,UNICLASS Governed Names,Generalization,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Sub group Component Code,,Sub group,Association,names,,,UNICLASS Namespaces,UNICLASS Ranks
+,UNICLASS Sub group Component Code,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Namespaces,UNICLASS Top Level Core
+,UNICLASS Sub group Component Code,,UNICLASS Governed Names,Generalization,,,,UNICLASS Namespaces,UNICLASS Top Level Core

@@ -1,0 +1,7 @@
+ea_guids,ea_package_path,parent_package_ea_guid,parent_package_uml_names,nf_uuids,contained_ea_packages,ea_object_type,supplier_place1_end_connectors,client_place2_end_connectors,contained_ea_diagrams,contained_ea_classifiers,parent_ea_element,parent_ea_element_name,ea_object_stereotypes,ea_repository,ea_object_name,ea_object_notes,ea_guid
+,,,,,,Package,,,,,,,,,bLEARer Foundation View,,
+,,,,,,Package,,,,,,bLEARer Foundation View,,,bCLEARer Foundation Package,,
+,,,,,,Package,,,,,,UNICLASS View,,,ISO12006-2:2015 Package,,
+,,,,,,Package,,,,,,UNICLASS Package,,,ProxyConnectors,,
+,,,,,,Package,,,,,,UNICLASS Package,,,UNICLASS Parent-Child Subtypes,,
+,,,,,,Package,,,,,,UNICLASS Package,,,UNICLASS Top Level Core,,

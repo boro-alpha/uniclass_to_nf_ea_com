@@ -1,0 +1,10 @@
+uml_object_names,parent_package_uml_names,parent_package_nf_uuids,object_uml_type_identifiers
+uniclass classification-instance-of rank,UNICLASS Top Level Core,,Class
+UNICLASS Classification Rank,UNICLASS Top Level Core,,Class
+UNICLASS Governed Names,UNICLASS Top Level Core,,Class
+UNICLASS Items,UNICLASS Top Level Core,,Class
+UNICLASS Naming Spaces,UNICLASS Top Level Core,,Class
+UNICLASS Object Names,UNICLASS Top Level Core,,Class
+UNICLASS Objects,UNICLASS Top Level Core,,Class
+uniclass_classification_inter_rank_type-of relations,UNICLASS Top Level Core,,Class
+uniclass_classification_type-of relation,UNICLASS Top Level Core,,Class

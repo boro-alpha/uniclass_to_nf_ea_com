@@ -1,0 +1,3 @@
+supplier_place1_nf_uuids,supplier_place1_uml_names,client_place2_nf_uuids,client_place2_uml_names,connector_uml_type_identifiers,connector_uml_names,stereotype_nf_uuids,stereotype_uml_names,child_package_name,parent_package_uml_names
+,ISO12006-2:2015 Common Reserved Names,,Names,Generalization,,,,ISO12006-2:2015 Package,bCLEARer Foundation Package
+,ISO12006-2:2015 Common Reserved Names,,Naming Spaces,Dependency,,,,ISO12006-2:2015 Package,bCLEARer Foundation Package

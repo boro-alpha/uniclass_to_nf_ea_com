@@ -1,0 +1,16 @@
+supplier_place1_nf_uuids,supplier_place1_uml_names,client_place2_nf_uuids,client_place2_uml_names,connector_uml_type_identifiers,connector_uml_names,stereotype_nf_uuids,stereotype_uml_names,child_package_name,parent_package_uml_names
+,Area,,UNICLASS Classification Rank,Dependency,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Area,,UNICLASS Items,Generalization,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Group,,UNICLASS Classification Rank,Dependency,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Group,,UNICLASS Items,Generalization,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Object,,UNICLASS Classification Rank,Dependency,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Object,,UNICLASS Items,Generalization,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Section,,UNICLASS Classification Rank,Dependency,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Section,,UNICLASS Items,Generalization,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Sub group,,UNICLASS Classification Rank,Dependency,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Sub group,,UNICLASS Items,Generalization,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Top Item,,UNICLASS Classification Rank,Dependency,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,Top Item,,UNICLASS Items,Generalization,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,UNICLASS Classification Ranks Names,,UNICLASS Classification Rank,Association,names,,,UNICLASS Ranks,UNICLASS Top Level Core
+,UNICLASS Classification Ranks Names,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Ranks,UNICLASS Top Level Core
+,UNICLASS Classification Ranks Names,,UNICLASS Object Names,Generalization,,,,UNICLASS Ranks,UNICLASS Top Level Core

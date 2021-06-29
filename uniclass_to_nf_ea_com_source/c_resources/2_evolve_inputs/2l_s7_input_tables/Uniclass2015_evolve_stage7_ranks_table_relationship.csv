@@ -1,0 +1,7 @@
+parent_rank_name,child_rank_name
+Top Item,Area
+Area,Group
+Group,Sub group
+Sub group,Section
+Section,Object
+Object,

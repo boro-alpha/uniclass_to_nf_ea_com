@@ -1,0 +1,13 @@
+uml_object_names,parent_package_uml_names,parent_package_nf_uuids,object_uml_type_identifiers
+bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,,Class
+Class,bCLEARer Foundation Package,,Class
+instance-of relation,bCLEARer Foundation Package,,Class
+Names,bCLEARer Foundation Package,,Class
+Naming Spaces,bCLEARer Foundation Package,,Class
+Object,bCLEARer Foundation Package,,Class
+Object Class,bCLEARer Foundation Package,,Class
+Object Class Class,bCLEARer Foundation Package,,Class
+part-of relation,bCLEARer Foundation Package,,Class
+relation,bCLEARer Foundation Package,,Class
+relation class,bCLEARer Foundation Package,,Class
+type-of relation,bCLEARer Foundation Package,,Class

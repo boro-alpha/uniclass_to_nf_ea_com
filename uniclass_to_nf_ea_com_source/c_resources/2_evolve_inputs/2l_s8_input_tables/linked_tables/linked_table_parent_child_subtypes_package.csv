@@ -1,0 +1,24 @@
+supplier_place1_nf_uuids,supplier_place1_uml_names,client_place2_nf_uuids,client_place2_uml_names,connector_uml_type_identifiers,connector_uml_names,stereotype_nf_uuids,stereotype_uml_names,child_package_name,parent_package_uml_names
+,area_to_group_type-of relation,,uniclass_classification_inter_rank_type-of relations,Dependency,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,area_to_group_type-of relation,,Area,Association,super-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,area_to_group_type-of relation,,Group,Association,sub-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,area_to_group_type-of relation,,uniclass_classification_type-of relation,Generalization,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,group_to_sub_group_type-of relation,,uniclass_classification_inter_rank_type-of relations,Dependency,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,group_to_sub_group_type-of relation,,uniclass_classification_type-of relation,Generalization,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,group_to_sub_group_type-of relation,,Sub group,Association,sub-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,group_to_sub_group_type-of relation,,Group,Association,super-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,section_to_object_type-of relation,,Object,Association,sub-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,section_to_object_type-of relation,,uniclass_classification_inter_rank_type-of relations,Dependency,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,section_to_object_type-of relation,,Section,Association,super-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,section_to_object_type-of relation,,uniclass_classification_type-of relation,Generalization,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,sub_group_to_section_type-of relation,,uniclass_classification_inter_rank_type-of relations,Dependency,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,sub_group_to_section_type-of relation,,uniclass_classification_type-of relation,Generalization,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,sub_group_to_section_type-of relation,,Sub group,Association,super-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,sub_group_to_section_type-of relation,,Section,Association,sub-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,top_item_to_area_type-of relation,,uniclass_classification_type-of relation,Generalization,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,top_item_to_area_type-of relation,,Top Item,Association,super-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,top_item_to_area_type-of relation,,Area,Association,sub-class,,,UNICLASS Parent-Child Subtypes,UNICLASS Ranks
+,top_item_to_area_type-of relation,,uniclass_classification_inter_rank_type-of relations,Dependency,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,uniclass_classification-type-of relation sub-type names,,uniclass_classification_inter_rank_type-of relations,Association,names,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,uniclass_classification-type-of relation sub-type names,,UNICLASS Object Names,Generalization,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core
+,uniclass_classification-type-of relation sub-type names,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Parent-Child Subtypes,UNICLASS Top Level Core

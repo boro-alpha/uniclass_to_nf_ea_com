@@ -1,0 +1,28 @@
+supplier_place1_nf_uuids,supplier_place1_uml_names,client_place2_nf_uuids,client_place2_uml_names,connector_uml_type_identifiers,connector_uml_names,stereotype_nf_uuids,stereotype_uml_names,child_package_name,parent_package_uml_names
+,UNICLASS Classification Rank,,UNICLASS Objects,Generalization,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Classification Rank,,UNICLASS Objects,Dependency,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Classification Rank,,Object Class Class,Generalization,,,,UNICLASS Top Level Core,bCLEARer Foundation Package
+,uniclass classification-instance-of rank,,UNICLASS Classification Rank,Association,type,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,uniclass classification-instance-of rank,,UNICLASS Items,Association,instance,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,uniclass classification-instance-of rank,,UNICLASS Objects,Dependency,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,uniclass classification-instance-of rank,,instance-of relation,Generalization,,,,UNICLASS Top Level Core,bCLEARer Foundation Package
+,UNICLASS Governed Names,,UNICLASS Objects,Dependency,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Governed Names,,UNICLASS Object Names,Generalization,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Items,,UNICLASS Objects,Generalization,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Items,,Object Class,Generalization,,,,UNICLASS Top Level Core,bCLEARer Foundation Package
+,UNICLASS Items,,UNICLASS Objects,Dependency,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Naming Spaces,,UNICLASS Objects,Dependency,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Naming Spaces,,Naming Spaces,Generalization,,,,UNICLASS Top Level Core,bCLEARer Foundation Package
+,UNICLASS Naming Spaces,,UNICLASS Objects,Generalization,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Object Names,,UNICLASS Objects,Association,names,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Object Names,,UNICLASS Objects,Generalization,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Object Names,,Names,Generalization,,,,UNICLASS Top Level Core,bCLEARer Foundation Package
+,UNICLASS Object Names,,UNICLASS Naming Spaces,Dependency,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,UNICLASS Object Names,,UNICLASS Objects,Dependency,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,uniclass_classification_inter_rank_type-of relations,,UNICLASS Objects,Dependency,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,uniclass_classification_inter_rank_type-of relations,,relation class,Generalization,,,,UNICLASS Top Level Core,bCLEARer Foundation Package
+,uniclass_classification_inter_rank_type-of relations,,UNICLASS Objects,Generalization,,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,uniclass_classification_type-of relation,,UNICLASS Items,Association,super-class,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,uniclass_classification_type-of relation,,type-of relation,Generalization,,,,UNICLASS Top Level Core,bCLEARer Foundation Package
+,uniclass_classification_type-of relation,,UNICLASS Items,Association,sub-class,,,UNICLASS Top Level Core,UNICLASS Top Level Core
+,uniclass_classification_type-of relation,,UNICLASS Objects,Dependency,,,,UNICLASS Top Level Core,UNICLASS Top Level Core

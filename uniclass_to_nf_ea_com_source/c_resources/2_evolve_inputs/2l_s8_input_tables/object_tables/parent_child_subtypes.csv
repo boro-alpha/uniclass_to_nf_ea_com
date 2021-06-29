@@ -1,0 +1,7 @@
+uml_object_names,parent_rank_UUID,parent_rank_name,child_rank_UUID,child_rank_name,parent_package_uml_names,parent_package_nf_uuids,object_uml_type_identifiers
+area_to_group_type-of relation,,Area,,Group,UNICLASS Parent-Child Subtypes,,Class
+group_to_sub_group_type-of relation,,Group,,Sub group,UNICLASS Parent-Child Subtypes,,Class
+sub_group_to_section_type-of relation,,Sub group,,Section,UNICLASS Parent-Child Subtypes,,Class
+section_to_object_type-of relation,,Section,,Object,UNICLASS Parent-Child Subtypes,,Class
+top_item_to_area_type-of relation,,Top Item,,Area,UNICLASS Parent-Child Subtypes,,Class
+uniclass_classification-type-of relation sub-type names,,,,,UNICLASS Parent-Child Subtypes,,Class

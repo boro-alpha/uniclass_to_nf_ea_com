@@ -1,0 +1,8 @@
+uml_object_names,attribute_order,parent_package_uml_names,parent_package_nf_uuids,object_uml_type_identifiers
+UNICLASS Area Code,3,UNICLASS Namespaces,,Class
+UNICLASS Item Composite Code,2,UNICLASS Namespaces,,Class
+UNICLASS Group Component Code,4,UNICLASS Namespaces,,Class
+UNICLASS Sub group Component Code,5,UNICLASS Namespaces,,Class
+UNICLASS Section Component Code,6,UNICLASS Namespaces,,Class
+UNICLASS Object Component Code,7,UNICLASS Namespaces,,Class
+UNICLASS Item Title,1,UNICLASS Namespaces,,Class

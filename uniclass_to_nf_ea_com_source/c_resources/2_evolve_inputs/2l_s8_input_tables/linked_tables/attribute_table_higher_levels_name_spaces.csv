@@ -1,0 +1,52 @@
+attributed_object_uuids,attributed_object_names,attributed_object_package_names,attribute_type_uuids,attribute_type_names,attribute_type_package_names,uml_visibility_kind,attribute_values
+,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,bCLEARer Foundation Common Reserved Names
+,Class,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,Types
+,Class,bCLEARer Foundation Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,Class
+,instance-of relation,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,types-instances
+,instance-of relation,bCLEARer Foundation Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,instance-of relation
+,Names,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,Names
+,Naming Spaces,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Private,Naming Spaces
+,Object,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,Elements
+,Object,bCLEARer Foundation Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,Object
+,Object Class,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,Element Powertype
+,Object Class,bCLEARer Foundation Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,Object Class
+,Object Class Class,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,Element Powertype Powertype
+,Object Class Class,bCLEARer Foundation Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,Object Class Class
+,part-of relation,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,wholes-parts
+,part-of relation,bCLEARer Foundation Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,part-of relation
+,relation,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,tuples
+,relation,bCLEARer Foundation Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,relation
+,relation class,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,tuple powertype
+,relation class,bCLEARer Foundation Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,relation class
+,type-of relation,bCLEARer Foundation Package,,bCLEARer Foundation Common Reserved Names,bCLEARer Foundation Package,Public,super-sub-types
+,type-of relation,bCLEARer Foundation Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,type-of relation
+,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,,ISO12006-2:2015 Common Reserved Names,ISO12006-2:2015 Package,Public,ISO12006-2:2015 Common Reserved Names
+,UNICLASS Area Code,UNICLASS Namespaces,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Item Area
+,UNICLASS Item Composite Code,UNICLASS Namespaces,,UNICLASS Object Names,UNICLASS Top Level Core,Private,UNICLASS Item Code
+,UNICLASS Group Component Code,UNICLASS Namespaces,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Item Group
+,UNICLASS Sub group Component Code,UNICLASS Namespaces,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Item Sub group
+,UNICLASS Section Component Code,UNICLASS Namespaces,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Item Section
+,UNICLASS Object Component Code,UNICLASS Namespaces,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Item Object
+,UNICLASS Item Title,UNICLASS Namespaces,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Item Title
+,area_to_group_type-of relation,UNICLASS Parent-Child Subtypes,,uniclass_classification-type-of relation sub-type names,UNICLASS Parent-Child Subtypes,Public,area_to_group_type-of relation
+,group_to_sub_group_type-of relation,UNICLASS Parent-Child Subtypes,,uniclass_classification-type-of relation sub-type names,UNICLASS Parent-Child Subtypes,Public,group_to_sub_group_type-of relation
+,sub_group_to_section_type-of relation,UNICLASS Parent-Child Subtypes,,uniclass_classification-type-of relation sub-type names,UNICLASS Parent-Child Subtypes,Public,sub_group_to_section_type-of relation
+,section_to_object_type-of relation,UNICLASS Parent-Child Subtypes,,uniclass_classification-type-of relation sub-type names,UNICLASS Parent-Child Subtypes,Public,section_to_object_type-of relation
+,top_item_to_area_type-of relation,UNICLASS Parent-Child Subtypes,,uniclass_classification-type-of relation sub-type names,UNICLASS Parent-Child Subtypes,Public,element_to_area_type-of relation
+,uniclass_classification-type-of relation sub-type names,UNICLASS Parent-Child Subtypes,,UNICLASS Object Names,UNICLASS Top Level Core,Public,uniclass_classification-type-of relation sub-type names
+,Object,UNICLASS Ranks,,UNICLASS Classification Ranks Names,UNICLASS Ranks,Public,Object
+,Top Item,UNICLASS Ranks,,UNICLASS Classification Ranks Names,UNICLASS Ranks,Public,Top Item
+,Area,UNICLASS Ranks,,UNICLASS Classification Ranks Names,UNICLASS Ranks,Public,Area
+,Group,UNICLASS Ranks,,UNICLASS Classification Ranks Names,UNICLASS Ranks,Public,Group
+,Sub group,UNICLASS Ranks,,UNICLASS Classification Ranks Names,UNICLASS Ranks,Public,Sub group
+,Section,UNICLASS Ranks,,UNICLASS Classification Ranks Names,UNICLASS Ranks,Public,Section
+,UNICLASS Classification Ranks Names,UNICLASS Ranks,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Classification Ranks Names
+,uniclass classification-instance-of rank,UNICLASS Top Level Core,,UNICLASS Object Names,UNICLASS Top Level Core,Public,uniclass classification-instance-of rank
+,UNICLASS Classification Rank,UNICLASS Top Level Core,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Classification Rank
+,UNICLASS Governed Names,UNICLASS Top Level Core,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Names
+,UNICLASS Items,UNICLASS Top Level Core,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Items
+,UNICLASS Naming Spaces,UNICLASS Top Level Core,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Naming Spaces
+,UNICLASS Object Names,UNICLASS Top Level Core,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Object Names
+,UNICLASS Objects,UNICLASS Top Level Core,,UNICLASS Object Names,UNICLASS Top Level Core,Public,UNICLASS Objects
+,uniclass_classification_inter_rank_type-of relations,UNICLASS Top Level Core,,UNICLASS Object Names,UNICLASS Top Level Core,Public,uniclass_classification_inter_rank_type-of relations
+,uniclass_classification_type-of relation,UNICLASS Top Level Core,,UNICLASS Object Names,UNICLASS Top Level Core,Public,uniclass_classification_type-of relation

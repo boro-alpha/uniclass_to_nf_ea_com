@@ -1,0 +1,11 @@
+supplier_place1_nf_uuids,supplier_place1_uml_names,client_place2_nf_uuids,client_place2_uml_names,connector_uml_type_identifiers,connector_uml_names,stereotype_nf_uuids,stereotype_uml_names,child_package_name,parent_package_uml_names
+,bCLEARer Foundation Common Reserved Names,,Names,Generalization,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
+,bCLEARer Foundation Common Reserved Names,,Naming Spaces,Dependency,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
+,instance-of relation,,relation,Generalization,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
+,Names,,Object Class,Generalization,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
+,Naming Spaces,,Object Class Class,Generalization,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
+,Object Class,,Class,Generalization,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
+,Object Class Class,,Class,Generalization,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
+,part-of relation,,relation,Generalization,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
+,relation class,,Class,Generalization,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
+,type-of relation,,relation,Generalization,,,,bCLEARer Foundation Package,bCLEARer Foundation Package
